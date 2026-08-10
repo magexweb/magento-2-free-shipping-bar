@@ -69,7 +69,7 @@ In short, this extension takes a policy most stores already have — free shippi
 - 30-day money-back guarantee
 - 90 days of free support
 - Free lifetime updates
-- Compatible with Magento 2.4.8-p5 and 2.4.9
+- Compatible with Magento 2.4.8 and 2.4.9
 
 📄 **[User Guide](https://magexweb.com/?download_id=ODY1)**
 
