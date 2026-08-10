@@ -103,7 +103,5 @@ No. All configuration — thresholds, messages, positions, and design — is han
 ## 📩 Support & Contact
 
 **Magexweb**
-📍 D-1002, Jasmin Green 1, Near Vaishno Devi Circle, Ahmedabad - 382421
-📞 [+91 99092 71288](tel:919909271288)
 ✉️ [info@magexweb.com](mailto:info@magexweb.com)
 🌐 [magexweb.com](https://magexweb.com)
